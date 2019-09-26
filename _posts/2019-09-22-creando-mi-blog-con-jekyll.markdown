@@ -56,7 +56,7 @@ Después de generado el sitio inicio una instancia de servidor web que genera je
 
 y por ultimo cargo la pagina de inicio accediendo a `http://localhost:4000`
 
-![mi sitio web con jekyll]({{ site.baseurl }}/images/cargando-web-con-jekyll.png)
+![mi sitio web con jekyll](/images/cargando-web-con-jekyll.png)
 
 **LISTO!** mi sitio web con Jekyll está generado correctamente de manera local en mi PC. Este es mi primer post. Ahora lo subire a github y continuare creando nuevos posts y haciendo mejoras y personalizaciones. 
 
